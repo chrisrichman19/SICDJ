@@ -206,10 +206,10 @@ Glacier mass changes drastically throughout the year, so we  calculate seasonal 
 
 .panel[.panel-name[Hazard Index]
 .pull-left[
-Our GLOF Hazard Index considers:
+Our GLOF Hazard Index (0-1) considers:
 - **Slope angles using digital elevation models.**
   - Rock and avalanche impact into a lake is more likely from any slope &gt;30° (Fischer et al., 2012).
-  - Downstream, if &gt;50% of  slope pixels are below the 35° typical angle of repose, the dam is considered unstable (CITE). 
+  - Downstream, if &gt;50% of  slope pixels are below the 35° typical angle of repose, the dam is considered unstable (Allen et al., 2019). 
 - **Lake area using polygon calculation.**  
   - Used as a proxy for lake volume and depth.
 - **Watershed area upstream.**
@@ -222,7 +222,7 @@ Our GLOF Hazard Index considers:
 
 .panel[.panel-name[Danger Index]
 .pull-left[
-The GLOF Danger Index  quantifies the potential for loss of life, livelihood and infrastructure:
+The GLOF Danger Index (0-1) quantifies the potential for loss of life, livelihood and infrastructure:
 - LULC and OSM data to identify **man-made structures and communities**
   - Create a binary categorisation of each pixel for presence of infrastructure.
 - Modified single-flow model (MSF) for each lake to **determine impacted areas from GLOF event.**
@@ -241,7 +241,7 @@ Validating our model is key to providing our partners with data they can rely on
 
 Community feedback:
 - We conduct validation workshops with a range of communities to **ground-truth our data.** 
-  - This is especally useful for identifying informal settlements
+  - This is especially useful for identifying informal settlements
 
 Validation against previous GLOF events:
 - We check our **model rankings against real events that have taken place**, so we can be confident in our predictions of the future.
