@@ -14,6 +14,8 @@ output:
       highlightLines: true
       countIncrementalSlides: false
       ratio: 16:9
+output_file: index.html
+  
 ---
 ```{r xaringanExtra-search, echo=FALSE}
 library(xaringanExtra)
