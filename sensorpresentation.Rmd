@@ -252,8 +252,8 @@ We are transparent about the challenges we may face.
 - Highlight the importance of of standardised data workflows to reducing redundancy
 ]
 .pull-right[
-&lt;p style="font-size:13px;"&gt;Stakeholder integration. Source: Allan and Rieu-Clarke, 2006.&lt;/p&gt;
-&lt;img src="index_files/img/flood.png" width="80%"&gt;
+<p style="font-size:13px;">Stakeholder integration. Source: Allan and Rieu-Clarke, 2006.</p>
+<img src="index_files/img/flood.png" width="80%">
 ]
 ]
 
@@ -263,20 +263,22 @@ We are transparent about the challenges we may face.
 - To mitigate this, we employ **remote engagement with partner organizations**. 
 ]
 .pull-right[
-&lt;p style="font-size:13px;"&gt;Kashmir conflict. Source: The Nation, 2022.&lt;/p&gt;
-&lt;img src="index_files/img/kashmir.jpg" width="80%"&gt;
+<p style="font-size:13px;">Kashmir conflict. Source: The Nation, 2022.</p>
+<img src="index_files/img/kashmir.jpg" width="80%">
 ]
 ]
+
 .panel[.panel-name[Language Barriers]
 .pull-left[Language and coordination barriers:
 - The region is home to **diverse communities and languages, complicating outreach.**
 - We therefore hire local interpreters and leverage partner networks to bridge communication gaps. 
 ]
 .pull-right[
-&lt;p style="font-size:13px;"&gt;Pakistan Language. Source: Clear Global, 2023.&lt;/p&gt;
-&lt;img src="index_files/img/language.png" width="100%"&gt;
+<p style="font-size:13px;">Pakistan Language. Source: Clear Global, 2023.</p>
+<img src="index_files/img/language.png" width="100%">
 ]
-]]  
+]
+] 
 
 ---
 
