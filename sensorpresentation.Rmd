@@ -288,24 +288,19 @@ class: inverse, center, middle
 
 ---
 
-
-
-
-.center[<img src="index_files/img/deliverychain.jpg" />]
-
+.center[<img src="index_files/img/deliverychain.jpg"
+width="800px" height="600"
+     style="position:center; right:10px; top:130px;"/>]
 
 ---
+     
+.center[<img src="index_files/img/costbreakdown.jpg" 
+      width="800px" height="400"
+     style="position:center; right:10px; top:130px;"/>]
 
-
-.center[<img src="index_files/img/costsummary.jpg" />]
-
-
----
-
-
-.center[<img src="index_files/img/costbreakdown.jpg" />]
-
-
+.center[<img src="index_files/img/costsummary.jpg"
+      width="1000px" height="200"
+     style="position:center; right:10px; top:30px;"/>]
 ---
 # References 
 
