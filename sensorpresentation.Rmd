@@ -287,6 +287,34 @@ class: inverse, center, middle
 # Implementation Timeline and Costs   
 
 ---
+
+```{r, echo=FALSE, out.width="75%"}
+knitr::include_graphics("index_files/img/deliverychain.jpg")
+
+```
+
+
+
+
+---
+
+
+.center[<img src="index_files/img/costsummary.jpg" />]
+
+
+---
+
+
+```{r, echo=FALSE, out.width="50%"}
+#knitr::include_graphics("index_files/img/costbreakdown.jpg")
+
+```
+
+
+.center[<img src="index_files/img/costbreakdown.jpg" />]
+
+
+---
 # References 
 
 Allan, A. and Rieu-Clarke, A., 2006. Legal and institutional aspects of integrated flood management. Obtained from https://www.researchgate.net/publication/44234926_Legal_and_institutional_aspects_of_integrated_flood_management
