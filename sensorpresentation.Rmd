@@ -288,12 +288,10 @@ class: inverse, center, middle
 
 ---
 
-```{r, echo=FALSE, out.width="75%"}
-knitr::include_graphics("index_files/img/deliverychain.jpg")
-
-```
 
 
+
+.center[<img src="index_files/img/deliverychain.jpg" />]
 
 
 ---
@@ -303,12 +301,6 @@ knitr::include_graphics("index_files/img/deliverychain.jpg")
 
 
 ---
-
-
-```{r, echo=FALSE, out.width="50%"}
-#knitr::include_graphics("index_files/img/costbreakdown.jpg")
-
-```
 
 
 .center[<img src="index_files/img/costbreakdown.jpg" />]
